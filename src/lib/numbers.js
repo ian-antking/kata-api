@@ -10,17 +10,17 @@ const subtract = (a, b) => {
 
 const multiply = (a, b) => {
   // your code here
-  return a*b;
+  return a * b;
 };
 
 const divide = (a, b) => {
   // your code here
-  return a/b;
+  return a / b;
 };
 
 const power = (a, b) => {
   // your code here
-  return a**b;
+  return a ** b;
 };
 
 const round = (a) => {
@@ -30,7 +30,7 @@ const round = (a) => {
 
 const roundUp = (a) => {
   // your code here
-  return Math.ceil(a); 
+  return Math.ceil(a);
 };
 
 const roundDown = (a) => {
@@ -45,7 +45,7 @@ const absolute = (a) => {
 
 const quotient = (a, b) => {
   // your code here
-  return parseInt(a/b);
+  return parseInt(a / b);
 };
 
 const remainder = (a, b) => {
